@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, I'm Yusuf Erdem  
 
-<!--
-**YusufErdemK/YusufErdemK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Game Developer** & 💻 **Web Developer**  
+I'm passionate about building interactive experiences and clean, efficient code. Always exploring new technologies and improving my skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🧠 Focused on learning and growing every day.  
+- 🕹️ Currently working on a game project for a TÜBİTAK competition.  
+- 🌍 Interested in creating smooth user experiences in both web and game environments.  
+- 💡 I believe that great ideas deserve great execution.  
+
+---
+
+### 🛠️ Technologies & Tools  
+- **Languages:** JavaScript, C#, HTML, CSS  
+- **Frameworks / Engines:** Unity, Node.js  
+- **Tools:** Git, VS Code, Linux  
+
+---
+
+### 📊 GitHub Stats  
+![YusufErdemK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufErdemK&show_icons=true&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&theme=transparent)  
+
+---
+
+### 🌐 Connect With Me  
+[Instagram](https://www.instagram.com/theyee1903)  
+
+---
+
+💬 *“Code is like humor — when you have to explain it, it’s bad.”*
