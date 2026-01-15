@@ -6,17 +6,29 @@ I value clean structure, automation, and doing things in a scalable and maintain
 - 🤝 Open to collaborations and learning opportunities  
 - 📬 Reach me via:
 
-<a href="https://github.com/YusufErdemK">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" style="border-radius: 10px;"/>
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
-<a href="mailto:yusuferdemyek@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" style="border-radius: 10px;"/>
-</a>
+  <!-- Sosyal Medya -->
+  <a href="https://github.com/YusufErdemK">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" style="border-radius: 10px;"/>
+  </a>
 
-<a href="https://instagram.com/theyee1903">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" style="border-radius: 10px;"/>
-</a>
+  <a href="mailto:yusuferdemyek@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" style="border-radius: 10px;"/>
+  </a>
+
+  <a href="https://instagram.com/theyee1903">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" style="border-radius: 10px;"/>
+  </a>
+
+  <!-- Tech Stack -->
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" style="border-radius: 10px;"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" style="border-radius: 10px;"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" style="border-radius: 10px;"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" style="border-radius: 10px;"/>
+
+</div>
+
 
 ---
 
