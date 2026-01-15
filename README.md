@@ -37,7 +37,7 @@ I value clean structure, automation, and doing things in a scalable and maintain
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Top Langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](https://github.com/YusufErdemK)
 
 ---
 <p align="center">
