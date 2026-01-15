@@ -7,15 +7,15 @@ I value clean structure, automation, and doing things in a scalable and maintain
 - 📬 Reach me via:
 
 <a href="https://github.com/YusufErdemK">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" style="border-radius: 10px;"/>
 </a>
 
 <a href="mailto:yusuferdemyek@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" style="border-radius: 10px;"/>
 </a>
 
 <a href="https://instagram.com/theyee1903">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" style="border-radius: 10px;"/>
 </a>
 
 ---
