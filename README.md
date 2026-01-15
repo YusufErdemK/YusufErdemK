@@ -40,5 +40,6 @@ I value clean structure, automation, and doing things in a scalable and maintain
 [![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ---
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
