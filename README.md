@@ -25,6 +25,8 @@ I value clean structure, automation, and doing things in a scalable and maintain
 - **[Plotonix](https://github.com/YusufErdemK/plotonix)**  
   A command-line tool that helps initialize GitHub repositories by generating standard files, folder structures, and templates, aiming to speed up project setup and enforce consistency.
 
+- **[hipe](https://github.com/YusufErdemK/hipe)**  
+    Minimal, fast CLI for saving & restoring file versions. Easy version history & diff in terminal.
 ---
 
 ## 🧰 Languages & Tools
