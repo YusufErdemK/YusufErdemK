@@ -49,7 +49,7 @@ I value clean structure, automation, and doing things in a scalable and maintain
 
 ## 📊 GitHub Stats
 
-![Top Langs]()
+![Top Langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&top=10&count_private=true&theme=blue-green&title_color=00b3ff)
 
 ---
 <p align="center">
