@@ -35,13 +35,18 @@ I value clean structure, automation, and doing things in a scalable and maintain
 ## 🛠 Recent Projects
 
 - **[Plotonix](https://github.com/YusufErdemK/plotonix)**  
-  A command-line tool that helps initialize GitHub repositories by generating standard files, folder structures, and templates, aiming to speed up project setup and enforce consistency.
+  A command-line tool for initializing GitHub repositories with standard files, folder structures, and templates. Speeds up project setup and enforces consistency.
 
 - **[hipe](https://github.com/YusufErdemK/hipe)**  
-    Minimal, fast CLI for saving & restoring file versions. Easy version history & diff in terminal.
+  A minimal and fast CLI for saving and restoring file versions, providing easy version history and diffs directly in the terminal.
 
 - **[HipeLauncher](https://github.com/YusufErdemK/hipelauncher)**  
-  A simple Linux application launcher named Hipe, built with Python and GTK. Makes launching applications quick and easy. Part of the Hipe Family.
+  A simple Linux application launcher built with Python and GTK. Part of the Hipe Family, it makes launching apps quick and effortless.
+
+- **[oljex](https://github.com/YusufErdemK/oljex)**  
+  An Electron-based interactive TTY terminal OS simulator. Features a bootloader, kernel logs, a mini filesystem, and fully functional commands like `pwd`, `ls`, `cd`, `mkdir`, `pencifetch`, and more.
+
+
 ---
 
 ## 🧰 Languages & Tools
@@ -52,7 +57,7 @@ I value clean structure, automation, and doing things in a scalable and maintain
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&top=11&count_private=true&theme=blue-green&title_color=00b3ff)
+![Top Langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&top=11&count_private=false&theme=blue-green&title_color=00b3ff)
 
 ---
 <p align="center">
