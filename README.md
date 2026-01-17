@@ -39,6 +39,9 @@ I value clean structure, automation, and doing things in a scalable and maintain
 
 - **[hipe](https://github.com/YusufErdemK/hipe)**  
     Minimal, fast CLI for saving & restoring file versions. Easy version history & diff in terminal.
+
+- **[HipeLauncher](https://github.com/YusufErdemK/hipelauncher)**  
+  A simple Linux application launcher named Hipe, built with Python and GTK. Makes launching applications quick and easy. Part of the Hipe Family.
 ---
 
 ## 🧰 Languages & Tools
