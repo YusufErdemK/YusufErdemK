@@ -57,7 +57,7 @@ I value clean structure, automation, and doing things in a scalable and maintain
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&langs_count=10&card_width=300&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&langs_count=11&card_width=300&hide_border=true)
 
 ---
 <p align="center">
