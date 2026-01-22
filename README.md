@@ -46,6 +46,10 @@ I value clean structure, automation, and doing things in a scalable and maintain
 - **[oljex](https://github.com/YusufErdemK/oljex)**  
   An Electron-based interactive TTY terminal OS simulator. Features a bootloader, kernel logs, a mini filesystem, and fully functional commands like `pwd`, `ls`, `cd`, `mkdir`, `pencifetch`, and more.
 
+- **[adiyok](https://github.com/YusufErdemK/adiyok)**  
+  An Flutter/Dart app that helps you to manage your finance and list your things with tree list style.
+  
+
 
 ---
 
@@ -57,7 +61,7 @@ I value clean structure, automation, and doing things in a scalable and maintain
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&langs_count=11&card_width=300&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&langs_count=12&card_width=300&hide_border=true)
 
 ---
 <p align="center">
