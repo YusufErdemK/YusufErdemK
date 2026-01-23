@@ -65,7 +65,7 @@ I value clean structure, automation, and doing things in a scalable and maintain
 
 ## 🎧 I am listening now:
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gj4urwke3xaqclumnh75hrfbxu&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gj4urwke3xaqclumnh75hrfbxu&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light)](https://open.spotify.com/user/31gj4urwke3xaqclumnh75hrfbxu)
 
 ---
 <p align="center">
