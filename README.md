@@ -63,6 +63,10 @@ I value clean structure, automation, and doing things in a scalable and maintain
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufErdemK&layout=compact&langs_count=12&card_width=300&hide_border=true)
 
+## 🎧 I am listening now:
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gj4urwke3xaqclumnh75hrfbxu&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
