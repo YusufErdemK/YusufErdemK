@@ -1,0 +1,26 @@
+name: Snake
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch:    
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@latest
+        with:
+          username: 'YusufErdemK'  
+          output: 'snake.svg'
+      
+      - name: Commit Snake
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add snake.svg
+          git commit -m "Update snake"
+          git push
