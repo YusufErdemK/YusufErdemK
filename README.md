@@ -1,5 +1,8 @@
 # Hi, I'm Erdem 👋
 
+![Snake](snake.svg)
+
+
 I’m a developer focused on building tools and applications while continuously improving my understanding of modern web and software development practices.  
 I value clean structure, automation, and doing things in a scalable and maintainable way.
 
